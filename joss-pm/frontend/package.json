@@ -1,0 +1,8 @@
+{
+  "name": "joss-pm-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PM Workspace UI (React 19, ES modules, no build step besides the vendor bundle)",
+  "scripts": { "build": "node build.mjs", "test": "node test/ssr.test.mjs" }
+}
